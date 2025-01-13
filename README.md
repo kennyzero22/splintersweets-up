@@ -1,5 +1,16 @@
 # splintersweets
 
+
+# Splinter Sweets - A LibGDX and Kotlin Mobile Game Example
+This is an example of building a mobile game app using the libGDX game development framework and the Kotlin programming language.
+
+The project includes the following features:
+
+A simple mobile game to demonstrate the key concepts of the very popular box2D physics library.
+The entire project is written in Kotlin, which is a modern statically typed JVM language and a pretty interesting alternative for Java developers.
+
+Visit mariusreimer.com to follow me and my experience and tutorials on cross-platform mobile game development, kotlin and more.
+
 A [libGDX](https://libgdx.com/) project generated with [gdx-liftoff](https://github.com/libgdx/gdx-liftoff).
 
 This project was generated with a Kotlin project template that includes Kotlin application launchers and [KTX](https://libktx.github.io/) utilities.
