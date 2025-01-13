@@ -1,4 +1,4 @@
-# splintersweets
+# Splintersweets - Update packet version
 
 
 # Splinter Sweets - A LibGDX and Kotlin Mobile Game Example
